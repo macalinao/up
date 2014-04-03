@@ -1,7 +1,7 @@
 up
 ==
 
-A simple command line tool for uploading a file.
+A simple command line tool for uploading a file that outputs the location of the uploaded file.
 
 Configuration
 -------------

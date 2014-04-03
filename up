@@ -6,4 +6,4 @@ then
     exit 1
 fi
 scp $1 $dest
-echo "Uploaded to $baseurl$(basename $1)"
+echo "$baseurl$(basename $1)"
